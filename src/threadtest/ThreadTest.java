@@ -19,4 +19,8 @@ public class ThreadTest {
         System.out.println("Hello Thread");
     }
     
+    public void newMethod(){
+        // do nothing
+    }
+    
 }
