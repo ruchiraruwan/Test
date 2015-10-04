@@ -27,4 +27,7 @@ public class ThreadTest {
         // do nothing
     }
     
+    public void newMethod3(){
+        // do nothing
+    }
 }
