@@ -8,7 +8,7 @@ package threadtest;
 
 /**
  *
- * @author Asus
+ * @author Ruchira
  */
 public class ThreadTest {
 
