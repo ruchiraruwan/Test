@@ -1,2 +1,2 @@
 # Test
-Testing 
+Changing project structure
